@@ -7,3 +7,6 @@ const isLoggin = ()=>{
         return false
     }
 }
+const usersInfo = [
+    {id:1,userName:"Erfan KAzemi" , job:"WEb Dwveloper"}
+]
