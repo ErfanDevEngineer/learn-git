@@ -1,4 +1,9 @@
-const isLogged = true
+const isLogged = false
 const isLoggin = ()=>{
-    return isLogged
+    if(isLogged){
+        return true
+    }
+    else{
+        return false
+    }
 }
