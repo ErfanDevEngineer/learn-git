@@ -8,7 +8,5 @@ const isLoggin = ()=>{
     }
 }
 const usersInfo = [
-    {id:1,userName:"Erfan Kazemi" , job:"WEb Dwveloper"},
-    {id:2,userName:"Sara Ahadzadeh" , job:"Ui Developer"},
-    {id:3,userName:"Alireza Kazemi" , job:"Seo Enginner"}
+    {id:1,userName:"Erfan KAzemi" , job:"WEb Dwveloper"}
 ]
