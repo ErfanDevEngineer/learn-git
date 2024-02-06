@@ -17,5 +17,6 @@ const message = [
 ]
 const notes = [
     {id:1,note:"daily exercise"},
-    {id:2,note:"code js every day" }
+    {id:2,note:"code js every day" },
+    {id:3,note:"add to " }
 ]
