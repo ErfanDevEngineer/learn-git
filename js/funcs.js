@@ -14,5 +14,4 @@ const usersInfo = [
 const message = [
     {id:1,userName:"Erfan Kazemi" , msg:"yur products are asesome,... congratulation to you!"},
     {id:2,userName:"Erfan Kazemi" , msg:"you are never get alone"},
-    {id:3,userName:"Mohamad Kardoost" , msg:"yeap..."}
 ]
