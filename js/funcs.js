@@ -20,6 +20,7 @@ const notes = [
     {id:2,note:"code js every day" },
     {id:3,note:"add to " },
     {id:4,note:"add " },
-    {id:5,note:"add filani" }
+    {id:5,note:"add filani" },
+    {id:6,note:"add filani2" }
 
 ]
