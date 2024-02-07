@@ -21,6 +21,9 @@ const notes = [
     {id:3,note:"add to " },
     {id:4,note:"add " },
     {id:5,note:"add filani" },
+    {id:5,note:"add filani" },
+    {id:5,note:"add filani" },
+    {id:31,note:"add filani" },
     {id:6,note:"add filani2" }
 
 ]
