@@ -29,3 +29,5 @@ const getMe = (userName)=>{
 const setMe = (input)=>{
     return nameUser = input
 }
+const getAge = (age)=>{
+    return age
