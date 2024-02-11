@@ -26,3 +26,6 @@ const notes = [
 const getMe = (userName)=>{
     return userName
 }
+const setMe = (input)=>{
+    return nameUser = input
+}
