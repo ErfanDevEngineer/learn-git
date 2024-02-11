@@ -22,5 +22,10 @@ const notes = [
     {id:6,note:"add filani2" },
     {id:8,note:"order a cuo pf coffe" },
     {id:9,note:"learn git & githu & gitlabq " },
-
 ]
+const getMe = (userName)=>{
+    return userName
+}
+const setMe = (input)=>{
+    return nameUser = input
+}
