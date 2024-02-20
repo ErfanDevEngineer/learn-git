@@ -1,4 +1,4 @@
 // Erfankazemi
-const customer = {
-  {id:1 , userName:"Erfan}
-}
+const customer = [
+  {id:1 , userName:"Erfan"}
+]
