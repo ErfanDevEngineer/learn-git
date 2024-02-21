@@ -29,3 +29,7 @@ const getMe = (userName)=>{
 const setMe = (input)=>{
     return nameUser = input
 }
+
+const setAge = (age)=>{
+    return age
+}
