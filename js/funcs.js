@@ -23,12 +23,7 @@ const notes = [
     {id:8,note:"order a cuo pf coffe" },
     {id:9,note:"learn git & githu & gitlabq " },
 ]
-const getMe = (userName)=>{
-    return userName
-}
-const setMe = (input)=>{
-    return nameUser = input
-}
+
 const getAge = (age)=>{
     return age
 }
